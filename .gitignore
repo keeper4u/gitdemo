@@ -12,5 +12,8 @@
 *.la
 *.a
 
+# Merge-conflict backup files
+*.orig
+
 # Compiled Target file
 gitdemo
